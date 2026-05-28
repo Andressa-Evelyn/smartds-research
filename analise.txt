@@ -1,0 +1,44 @@
+-Métricas da Rede-
+
+Os feeders possuem:
+
+- dezenas de milhas de linhas
+- alta predominância de linhas monofásicas
+- baixa porcentagem de linhas aéreas em alguns casos
+
+-Transformadores-
+
+Foram observados:
+
+- centenas de transformadores por feeder
+- predominância de transformadores monofásicos
+- elevada capacidade instalada
+
+-Carga elétrica-
+
+Os feeders apresentam:
+
+- cargas de pico entre aproximadamente 7 MW e 16 MW
+- fator de potência médio elevado (~0.97–0.98)
+- desequilíbrio de fase relativamente baixo
+
+
+-Perfil dos consumidores-
+
+A maior parte dos feeders analisados possui:
+
+- predominância urbana
+- predominância residencial
+- baixa participação industrial
+
+- Análises futuras podem incluir:- 
+
+- Visualização geográfica da rede
+- Estudos temporais de carga
+- Análise estatística de feeders
+- Clustering de feeders
+- Predição de sobrecarga
+- Impacto de geração solar
+- Simulações com OpenDSS
+- Construção de grafos elétricos
+- Análise topológica da rede
